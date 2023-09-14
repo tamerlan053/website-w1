@@ -52,3 +52,7 @@
   list-style: none;
   text-align: center;
 }
+
+.navbar__item {
+  height: 80px;
+}
