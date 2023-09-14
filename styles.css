@@ -56,3 +56,7 @@
 .navbar__item {
   height: 80px;
 }
+
+.navbar__links {
+  color: #fff;
+}
