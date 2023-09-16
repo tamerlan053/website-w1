@@ -88,3 +88,7 @@
     background: #f77062;
     color: #fff;
 }
+
+.button:hover {
+    background: #4837ff;
+}
