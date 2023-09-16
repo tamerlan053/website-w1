@@ -82,4 +82,9 @@
     padding: 10px 20px;
     height: 100%;
     width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background: #f77062;
+    color: #fff;
 }
