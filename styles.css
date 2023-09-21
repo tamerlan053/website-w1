@@ -116,5 +116,6 @@
         margn: 0;
         position: absolute;
         top: -1000px;
+        opacity: 1;
     }
 }
