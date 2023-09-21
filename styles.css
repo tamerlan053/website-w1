@@ -113,5 +113,6 @@
     .navbar__menu {
         display: grid;
         grid-templates-column: auto;
+        margn: 0;
     }
 }
