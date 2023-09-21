@@ -114,5 +114,6 @@
         display: grid;
         grid-templates-column: auto;
         margn: 0;
+        position: absolute;
     }
 }
