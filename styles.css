@@ -144,4 +144,8 @@
         background: #fff;
     }
 
+    .navbar__item {
+        width: 100px;
+    }
+
 }
