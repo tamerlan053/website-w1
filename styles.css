@@ -162,8 +162,12 @@
         transform: translate(5%, 20%);
     }
 
-    .navbar__btn{
+    .navbar__btn {
         padding-bottom: 2rem;
+    }
+
+    .button {
+        display: flex;
     }
 
 }
