@@ -177,6 +177,7 @@
 
     .navbar__togle .bar {
         display: block;
+        cursor: pointer;
     }
 
 }
