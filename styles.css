@@ -191,9 +191,8 @@
     #mobile-menu.is-active .bar:nth-child(3) {
         transform: translateY(8px) rotate (45deg);
     }
+}
 
     .main {
         background-color: #141414;
     }
-
-}
