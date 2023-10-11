@@ -205,4 +205,5 @@
         margin: 0 auto;
         height: 90vh;
         width: 100%;
+        max-width: 1300px;
     }
