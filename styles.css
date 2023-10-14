@@ -224,4 +224,5 @@
         font-size: 4rem;
         background-color: #ff8177;
         background-image: linear-gradient(to top, #b721ff 0%, #ffb199 1000%); 
+        background-size: 100%;
     }
