@@ -209,7 +209,7 @@
         padding: 0 50px;
     }
 
-    .main__content h1{
+    .main__content h1 {
         font-size: 4rem;
         background-color: #ff8177;
         background-image: linear-gradient(to top, #ff0844 0%, #ffb199 1000%); 
@@ -220,4 +220,6 @@
         -moz-text-fill-color: transparent;
     }
 
+    .main__content h2 {
 
+    }
