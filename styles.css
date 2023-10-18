@@ -240,4 +240,5 @@
     .main__btn {
         font-size: 1rem;
         background-image: lienar-gradient(to top, #f77062);
+        padding: 14px 32px;
     }
