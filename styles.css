@@ -247,4 +247,8 @@
         border-radius: 4px;
         color: #fff;
         margin-top: 2rem;
+        cursor: pointer;
+        position: relative;
+        transition: all 0.35s;
+        outilne: none;
     }
