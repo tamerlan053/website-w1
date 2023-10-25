@@ -252,3 +252,10 @@
         transition: all 0.35s;
         outilne: none;
     }
+
+    .main__btn a {
+        position: relative;
+        z-index: 2;
+    }
+
+    
