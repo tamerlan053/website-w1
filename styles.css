@@ -284,7 +284,14 @@
     text-align: center;
 }
 
-.main__img {
+#main__img {
     height: 80%;
     width: 80%;
+}
+
+@media screen and (max-width: 768px) {
+    .main__container {
+        display: grid;
+        grid-template-columns: auto;
+    }
 }
