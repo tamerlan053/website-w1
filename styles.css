@@ -293,5 +293,7 @@
     .main__container {
         display: grid;
         grid-template-columns: auto;
+        align-items: center;
+        justify-self: center;
     }
 }
