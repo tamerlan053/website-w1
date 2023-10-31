@@ -329,4 +329,9 @@
     .main__content h2 {
         font-size: 2rem;
     }
+
+    .main__content p {
+        margin-top: 2rem;
+        font-size: 1.5rem;
+    }
 }
