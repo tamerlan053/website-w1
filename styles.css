@@ -360,9 +360,3 @@
     -moz-text-fill-color: transparent;
 }
 
-.services__container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
