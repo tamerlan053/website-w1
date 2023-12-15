@@ -294,8 +294,6 @@
         display: grid;
         grid-template-columns: auto;
         align-items: center;
-        justify-self: center;
-        width: 100%;
     }
 
 }
