@@ -290,9 +290,7 @@
 }
 
 @media screen and (max-width: 768px) {
-    .main__container {
-        display: grid;
-    }
+
 
 }
 
