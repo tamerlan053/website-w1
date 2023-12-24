@@ -294,6 +294,7 @@
         display: grid;
         grid-template-column: auto;
         align-items: center;
+        justify-self: center;
     }
 }
 
