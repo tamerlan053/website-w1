@@ -299,6 +299,11 @@
         margin: 0 auto;
         height: 90vh;
     }
+
+    .main__content {
+        text-align: center;
+        margin-bottom: 4rem;
+    }
 }
 
 
