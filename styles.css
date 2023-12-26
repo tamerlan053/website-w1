@@ -305,9 +305,13 @@
         margin-bottom: 4rem;
     }
 
-    .main__content {
+    .main__content h1 {
         font-size: 2.5rem;
         margin-top: 2rem;
+    }
+
+    .main__content h2 {
+        font-size: 3rem;
     }
 
 }
