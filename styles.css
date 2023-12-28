@@ -369,5 +369,10 @@
     -moz-text-fill-color: transparent;
 }
 
+.sevices__container {
+    display: flex;
+    justify-content: center;
+}
+
 
 
