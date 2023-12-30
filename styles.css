@@ -375,5 +375,10 @@
     flex-wrap: wrap;
 }
 
+.services__card {
+    margin: 1rem;
+    heighht: 525px;
+}
+
 
 
