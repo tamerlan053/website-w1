@@ -377,7 +377,9 @@
 
 .services__card {
     margin: 1rem;
-    heighht: 525px;
+    height: 525px;
+    width: 400px;
+    border-radius: 4px;
 }
 
 
