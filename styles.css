@@ -409,6 +409,10 @@
     outline: none;
     border-radius: 4px;
     background: #f77062;
+    position: absolute;
+    top: 440px;
+    left: 30px;
+    font-size: 1rem;
 }
 
 
