@@ -426,5 +426,10 @@
     .services {
         height: 1600px;
     }
+
+    .services h1 {
+        font-size: 2rem;
+        margin-top: 12rem;
+    }
 }
 
