@@ -422,3 +422,9 @@
     cursor: pointer;
 }
 
+@media screen and (max-width: 960px) {
+    .services {
+        height: 1600px;
+    }
+}
+
