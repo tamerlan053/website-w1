@@ -441,4 +441,8 @@
     .services h1 {
         font-size: 1.2rem;
     }
+
+    .services__card {
+        width: 300px;
+    }
 }
