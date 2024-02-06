@@ -478,4 +478,5 @@
 #footer__logo {
     color: #fff;
     display: flex;
+    align-items: center;
 }
