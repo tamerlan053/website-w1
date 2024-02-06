@@ -480,4 +480,5 @@
     display: flex;
     align-items: center;
     cursor: pointer;
+    text-decoration: none;
 }
