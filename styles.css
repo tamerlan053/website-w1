@@ -497,4 +497,5 @@
 
 .footer__link--items {
     display: flex;
+    flex-direction: column;
 }
