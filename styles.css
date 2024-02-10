@@ -496,5 +496,5 @@
 }
 
 .footer__link--items {
-    
+    display: flex;
 }
