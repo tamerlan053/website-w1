@@ -508,3 +508,7 @@
 .footer__links--items h2 {
     margin-bottom: 16px;
 }
+
+.footer__links--items > h2 {
+    color: #fff;
+}
