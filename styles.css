@@ -502,4 +502,5 @@
     margin: 16px;
     text-align: left;
     width: 160px;
+    box-sizing: border-box;
 }
