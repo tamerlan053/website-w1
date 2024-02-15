@@ -535,5 +535,5 @@
 }
 
 .social__media--wrap {
-    
+    display: flex;
 }
