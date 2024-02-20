@@ -545,4 +545,5 @@
 
 .social__icons {
     display: flex;
+    justify-confent: space-between;
 }
