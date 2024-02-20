@@ -547,4 +547,5 @@
     display: flex;
     justify-confent: space-between;
     align-items: center;
+    width: 240px;
 }
