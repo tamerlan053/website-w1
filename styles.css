@@ -556,6 +556,6 @@
     text-decoration: none;
     font-size: 2rem;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     margin-bottom: 21px;
 }
